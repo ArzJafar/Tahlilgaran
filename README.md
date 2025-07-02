@@ -28,7 +28,7 @@ flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flat
 #####   
 2\. نصب Bottles، Wine و Winetricks از Flathub یا منبع دیگه
 
-میتونی یا از Software Center لینوکس (مرکز نرم‌افزار) اینارو نصب کنی یا از ترمینال، که برای همه توزیع‌ها جواب می‌ده:
+میتونین یا از Software Center لینوکس (مرکز نرم‌افزار) اینارو نصب کنین یا از ترمینال، که برای همه توزیع‌ها جواب می‌ده:
 
 ```plaintext
 flatpak install flathub com.usebottles.bottles

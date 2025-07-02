@@ -1,10 +1,14 @@
 ## Tahlilgaran Desktop
 
+دیکشنری تحلیلگران نسخه اندروید اش رایگانه ولی دسکتاپ پولیه باید بخرین.  
+با این دیکشنری به دیکشنری ها Longman, Oxford,... به صورت همزمان دسترسی دارین.
+
+[لینک خرید نرم افزار ویندوز دیکشنری تحلیلگران](https://www.tahlilgaran.org/Course/eAppStore/?emedia=winapp&clx=10000)
+
 ## آموزش قدم‌به‌قدم نصب نرم‌افزار ویندوزی (تحلیل‌گران) روی لینوکس با Bottles و Wine
 
-من این آموزش رو روی ابونتو دسکتاپ تست کردم ولی روی بیشتر توزیع های معروف لینوکس مثل Arch, Fedora و… هم قابل اجراست.
+من این رو روی ابونتو دسکتاپ تست کردم ولی روی بیشتر توزیع های معروف لینوکس مثل Arch, Fedora و… هم قابل اجراست.
 
-####   
 پیش‌نیازها: نصب ابزارهای لازم
 
 1.  ##### نصب Flatpak و اتصال به Flathub
@@ -25,7 +29,6 @@ flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flat
 
 در توزیع‌های دیگه (مانند Fedora یا Arch) معمولاً Flatpak به صورت پیش‌فرض نصبه، فقط مطمئن شین Flathub فعاله.
 
-#####   
 2\. نصب Bottles، Wine و Winetricks از Flathub یا منبع دیگه
 
 میتونین یا از Software Center لینوکس (مرکز نرم‌افزار) اینارو نصب کنین یا از ترمینال، که برای همه توزیع‌ها جواب می‌ده:
@@ -56,7 +59,6 @@ flatpak install flathub org.winehq.Winetricks
 *   dotnet48
 *   memo
 
-####   
 نصب نرم‌افزار تحلیل‌گران داخل Bottle
 
 داخل Bottle گزینه Run Executable… رو بزنین و فایل نصبی دیکشنری رو انتخاب کنین. (Setup.exe)

@@ -29,8 +29,7 @@ flatpak install flathub org.winehq.Winetricks
 
 ساخت محیط مخصوص نرم‌افزار با Bottles
 
-Bottles رو باز کن.
-
+باز کردن Bottles.
 روی Create a new Bottle کلیک کن.
 
 نوع Bottle رو بزن Custom (دلخواه و انعطاف‌پذیرترین حالت).
